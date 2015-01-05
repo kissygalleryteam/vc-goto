@@ -4,7 +4,6 @@ VcGoto是简单的滚动到任何位置比如返回顶部的组件。
 
 ![http://gtms02.alicdn.com/tps/i2/TB1DApgHXXXXXbOXXXXFvIM3VXX-434-180.png](http://gtms02.alicdn.com/tps/i2/TB1DApgHXXXXXbOXXXXFvIM3VXX-434-180.png)
 
-测试文档推送。
 
 ## 初始化组件
 
