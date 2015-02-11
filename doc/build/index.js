@@ -1,4 +1,4 @@
-KISSY.add('kg/vc-goto/1.0.0/index',["node","base"],function(S ,require, exports, module) {
+KISSY.add('kg/goto/1.0.0/index',["node","base"],function(S ,require, exports, module) {
  var $ = require('node').all;
 var Base = require('base');
 

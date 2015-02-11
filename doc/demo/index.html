@@ -4,6 +4,7 @@
     <meta charset="utf-8"/>
     <title>VcGoto的demo</title>
     <script src="http://g.tbcdn.cn/kissy/k/1.4.8/seed-min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="http://g.tbcdn.cn/kg/common/1.0.1/vc/demo-min.css">
     <style>
         td{
             padding: 10px;
@@ -598,7 +599,7 @@
         S.config({
             packages:[
                 {
-                    name:"kg/vc-goto/1.0.0",
+                    name:"kg/goto/1.0.0",
                     path:debugPath,
                     charset:"utf-8"
                 }
@@ -606,7 +607,7 @@
         });
     }
 
-    S.use('kg/vc-goto/1.0.0/top,kg/vc-goto/1.0.0/top.css', function (S, GotoTop) {
+    S.use('kg/goto/1.0.0/top,kg/goto/1.0.0/top.css', function (S, GotoTop) {
         var gotoTop = new GotoTop();
         gotoTop.render();
     })

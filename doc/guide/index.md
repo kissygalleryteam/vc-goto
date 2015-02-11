@@ -9,7 +9,7 @@ VcGoto是简单的滚动到任何位置比如返回顶部的组件。
 
 返回顶部组件：
 		
-    S.use('kg/vc-goto/1.0.0/top,kg/vc-goto/1.0.0/top.css', function (S, GotoTop) {
+    S.use('kg/goto/1.0.0/top,kg/goto/1.0.0/top.css', function (S, GotoTop) {
         var gotoTop = new GotoTop();
         gotoTop.render();
     })

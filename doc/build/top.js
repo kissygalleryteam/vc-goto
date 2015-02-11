@@ -1,4 +1,4 @@
-KISSY.add('kg/vc-goto/1.0.0/top',["node","base","anim"],function(S ,require, exports, module) {
+KISSY.add('kg/goto/1.0.0/top',["node","base","anim"],function(S ,require, exports, module) {
  //返回顶部组件
 //by 剑平
 var Node = require('node');
