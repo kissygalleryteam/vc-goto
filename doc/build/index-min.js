@@ -1,1 +1,0 @@
-KISSY.add("kg/goto/1.0.0/index",["base","node"],function(t,e,n,a){var r,i=e("base"),o=e("node");r=function(t){var e=o.all,n=i,a=n.extend({initializer:function(){{var t=this;t.get("$target")}}},{ATTRS:{$target:{value:"",getter:function(t){return e(t)}},start:{value:0}}});return t=a}(),a.exports=r});
