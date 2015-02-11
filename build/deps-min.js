@@ -1,0 +1,1 @@
+KISSY.config("requires",{"kg/goto/1.0.0/index":["node","base"],"kg/goto/1.0.0/top":["node","base","anim"]});
